@@ -17,9 +17,11 @@ To write a program to predict the price of the house and number of occupants in 
 7. Calculate the Mean Squared Error (MSE) between the predicted and actual values.Print the MSE and display the first few predictions. 
 
 ## Program:
+
 ```
 /*
 Program to implement the multivariate linear regression model for predicting the price of the house and number of occupants in the house with SGD regressor.
+
 Developed by: Bhuvaneshwari S
 RegisterNumber: 212222220008  
 */
